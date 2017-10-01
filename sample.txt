@@ -1,7 +1,13 @@
 HELLO GIT HUB!
+HEAD
 UPDATED WITH TORTOISE GIT
 
 Here are some new changes.
 Trying to make some SoftUni Exercises.
 
 GOOD LUCK!!!
+
+
+UPDATED WITH GitBash.
+UPDATED WITH TORTOISE GIT
+
