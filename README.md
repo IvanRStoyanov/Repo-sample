@@ -1,2 +1,3 @@
 # Repo-sample
-GitHum training
+GitHub training
+That are some changes in GitHub training
