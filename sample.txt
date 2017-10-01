@@ -1,2 +1,7 @@
 HELLO GIT HUB!
 UPDATED WITH TORTOISE GIT
+
+Here are some new changes.
+Trying to make some SoftUni Exercises.
+
+GOOD LUCK!!!
